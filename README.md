@@ -1,4 +1,4 @@
-Hello Github Community👋, I'm Niyaz
+**Hello Github Community👋, I'm Niyaz**
 
 <!--
 **niyaz-mohamad/niyaz-mohamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
